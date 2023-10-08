@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Advanced AWS Services**
 
-- 👯 I’m looking to collaborate on **Front end projects, Coding (Problem solving)**
+- 👯 I’m looking to collaborate on **Front end projects, Coding (Problem solving), Machine Learning projects ,Linux(Red Hat)**
 
-- 🤝 I’m looking for help with **Graph sql ,Mango DB**
+- 🤝 I’m looking for help with **Graphql ,Mango DB Fullstack projects, React, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://harshit-singh1234.github.io/portfolio_harshit_kumar.github.io/](https://harshit-singh1234.github.io/portfolio_harshit_kumar.github.io/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Flutter, AWS, and any general software development questions.**
+- 💬 Ask me about **Problem Solving ,JavaScript, HTML, CSS, Flutter, AWS, and any general software development questions.**
 
 - 📫 How to reach me **20P31A0517@acet.ac.in**
 
